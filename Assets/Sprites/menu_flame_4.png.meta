@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: ac44017430e3340618c201377f84a662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3936176478548272950
+    second: menu_flame_4_0
+  - first:
+      213: -3205043461819754415
+    second: menu_flame_4_1
+  - first:
+      213: -3949974177771536267
+    second: menu_flame_4_2
+  - first:
+      213: -1668836606435659261
+    second: menu_flame_4_3
+  - first:
+      213: 7518605134485834028
+    second: menu_flame_4_4
+  - first:
+      213: 3562866312225794276
+    second: menu_flame_4_5
+  - first:
+      213: -5184632359343043417
+    second: menu_flame_4_6
+  - first:
+      213: -4493798342876550197
+    second: menu_flame_4_7
+  - first:
+      213: 5396099222404722397
+    second: menu_flame_4_8
+  - first:
+      213: 1740828726621619398
+    second: menu_flame_4_9
+  - first:
+      213: -2603534629738554947
+    second: menu_flame_4_10
+  - first:
+      213: -6152205711184079393
+    second: menu_flame_4_11
+  - first:
+      213: -6699930249260229859
+    second: menu_flame_4_12
+  - first:
+      213: -4103431557872521693
+    second: menu_flame_4_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu_flame_4_0
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1049
+        width: 105
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d1e6f854ef59c0800000000000000
+      internalID: -3936176478548272950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_1
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 713
+        width: 163
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589b88d3f56583d0800000000000000
+      internalID: -3205043461819754415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_2
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 667
+        width: 93
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57046f5c96fde29c0800000000000000
+      internalID: -3949974177771536267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_3
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 874
+        width: 70
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fb35c2f917d8e0800000000000000
+      internalID: -1668836606435659261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_4
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 663
+        width: 53
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c477d883775860800000000000000
+      internalID: 7518605134485834028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_5
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 793
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ac6ab808d17130800000000000000
+      internalID: 3562866312225794276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_6
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 703
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accc5aa65c7c08b0800000000000000
+      internalID: -5184632359343043417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 637
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbaa906732d2a1c0800000000000000
+      internalID: -4493798342876550197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_8
+      rect:
+        serializedVersion: 2
+        x: 5083
+        y: 498
+        width: 50
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddee13c27abc2ea40800000000000000
+      internalID: 5396099222404722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_9
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 361
+        width: 38
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c319e08aa82810800000000000000
+      internalID: 1740828726621619398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_10
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 451
+        width: 27
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db951026c036edbd0800000000000000
+      internalID: -2603534629738554947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_11
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 457
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd55ebf5089fe9aa0800000000000000
+      internalID: -6152205711184079393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_12
+      rect:
+        serializedVersion: 2
+        x: 4854
+        y: 392
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b13f0afe01503a0800000000000000
+      internalID: -6699930249260229859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_flame_4_13
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 312
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e61e03dbead07c0800000000000000
+      internalID: -4103431557872521693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      menu_flame_4_0: -3936176478548272950
+      menu_flame_4_1: -3205043461819754415
+      menu_flame_4_10: -2603534629738554947
+      menu_flame_4_11: -6152205711184079393
+      menu_flame_4_12: -6699930249260229859
+      menu_flame_4_13: -4103431557872521693
+      menu_flame_4_2: -3949974177771536267
+      menu_flame_4_3: -1668836606435659261
+      menu_flame_4_4: 7518605134485834028
+      menu_flame_4_5: 3562866312225794276
+      menu_flame_4_6: -5184632359343043417
+      menu_flame_4_7: -4493798342876550197
+      menu_flame_4_8: 5396099222404722397
+      menu_flame_4_9: 1740828726621619398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
